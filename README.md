@@ -36,10 +36,10 @@ This document outlines the steps taken to audit browser extensions for improved 
 
 | Extension Name           | Status     | Description                                                                 | Action Taken         |
 |--------------------------|------------|-----------------------------------------------------------------------------|----------------------|
-| **Cookie-Editor**        | ✅ Disabled   | Allows quick editing and management of cookies.                            | Disabled (not in daily use) |
-| **Google Docs Offline**  | ✅ Enabled    | Official Google extension for offline access to Docs, Sheets, and Slides.  | Kept active (essential)     |
-| **Netcraft Extension**   | ✅ Disabled   | Offers protection from phishing and malicious scripts.                     | Disabled (enable as needed) |
-| **Wappalyzer**           | ✅ Disabled   | Identifies technologies used on websites. Useful for web developers.       | Disabled (used occasionally) |
+| **Cookie-Editor**        |  Disabled   | Allows quick editing and management of cookies.                            | Disabled (not in daily use) |
+| **Google Docs Offline**  |  Enabled    | Official Google extension for offline access to Docs, Sheets, and Slides.  | Kept active (essential)     |
+| **Netcraft Extension**   |  Disabled   | Offers protection from phishing and malicious scripts.                     | Disabled (enable as needed) |
+| **Wappalyzer**           |  Disabled   | Identifies technologies used on websites. Useful for web developers.       | Disabled (used occasionally) |
 
 ---
 
