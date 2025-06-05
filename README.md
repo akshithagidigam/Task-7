@@ -4,7 +4,7 @@ This document outlines the steps taken to audit browser extensions for improved 
 
 ---
 
-## 🔧 Steps Performed
+## Steps Performed
 
 1. **Opened the browser’s extension/add-ons manager**  
    Navigated to the browser’s extension page to view all installed add-ons.
@@ -32,7 +32,7 @@ This document outlines the steps taken to audit browser extensions for improved 
 
 ---
 
-## 📋 Extensions Summary
+## Extensions Summary
 
 | Extension Name           | Status     | Description                                                                 | Action Taken         |
 |--------------------------|------------|-----------------------------------------------------------------------------|----------------------|
@@ -43,7 +43,7 @@ This document outlines the steps taken to audit browser extensions for improved 
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 - **No malicious extensions were found.**
 - All installed extensions are from trusted sources and serve useful purposes.
